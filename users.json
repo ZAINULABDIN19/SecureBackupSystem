@@ -1,0 +1,25 @@
+{
+    "admin": {
+        "salt": "d1OASvDMrloNLaAy41OtWg==",
+        "key": "LMamP/UvxbllEHVBWkok3OIuPKX272O2ZAdB+uDO7n4="
+    },
+    "ZAIN": {
+        "salt": "m5acCy/H7XBjnU+KVXVCkw==",
+        "key": "FULyypsJvlqDuqvpnQcdytz+X18pY/0VUP8qMrh2Yjc=",
+        "role": "admin"
+    },
+    "ali": {
+        "salt": "1HpP3fK66q9G02aGe9SF8A==",
+        "key": "OI4bjZERvGkWYZgX0mDH8vDYTMwChVwI8mKeTZ0Oizw="
+    },
+    "MIKE": {
+        "salt": "H+BKlGp8EgPuvYkeW2d7lg==",
+        "key": "p/u27t/f5oHBSjazOapdr1r+jdBdg37I6rAUJeQM7bE=",
+        "role": "user"
+    },
+    "hammad": {
+        "salt": "9Aihjcli5aadICxTUCLxWg==",
+        "key": "FkFy8YirvwTcBj0dLVQ97dmoJD8tbDY/fhxbZb3dOpE=",
+        "role": "user"
+    }
+}
